@@ -1,4 +1,4 @@
-# Project_Portforio
+# Project_Portfolio
 
 Welcome to my personal repository! This repository serves as a showcase of the data projects I have worked on in the past, demonstrating my skills and expertise in the field of data analysis. Here, you will find a collection of projects that highlight my ability to manipulate, analyze, and visualize data to derive meaningful insights.
 
